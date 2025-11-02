@@ -1,4 +1,4 @@
-# 🤖 AI Email Assistant – Intelligent Email Reply Generator
+# 🤖 AI Email Assistant – Email Reply Generator
 
 An **AI-powered web application** that analyzes incoming emails and generates **professional, context-aware replies** using advanced **Natural Language Processing (NLP)** and **prompt-based learning**.  
 This system enhances communication efficiency by automating manual email drafting — allowing users to generate replies with customizable tone and real-time preview.  
